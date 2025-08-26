@@ -6,7 +6,7 @@
 # 👋 Hi there, I'm Nooreldean 
 ### 👨‍💻 About Me  
 
-Hi! I'm **Noureldean**, a student and beginner programmer.  
+Hi! I'm **Nooreldean**, a student and beginner programmer.  
 I'm currently learning **C++** as my first programming language and exploring the world of **software development**.  
 
 
