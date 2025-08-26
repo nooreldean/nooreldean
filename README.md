@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/hellocoders_rounded.gif" alt="Hello Coders" width="60%"/> <br>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" alt="Workspace" width="40%"/><br> 
+
+<img src="https://camo.githubusercontent.com/cbb5270464a937d6443d0666b084561c76b66e65513c56b06e7b2e54c173cc23/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63652f36392f34662f63653639346635363036333664666663663432656366343064346632663936322e676966" alt="Workspace" width="40%"/><br> 
 
 # 👋 Hi there, I'm Nooreldean 
 ### 👨‍💻 About Me  
@@ -39,7 +39,7 @@ I'm currently learning **C++** as my first programming language and exploring th
 <a href="https://github.com/noureldean">
   <img src="https://github-readme-stats.vercel.app/api?username=nooreldean&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nooreldean&layout=compact&theme=tokyonight" width="48%"/>
-</a>
+  
 
 ---
 
